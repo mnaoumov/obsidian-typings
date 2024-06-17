@@ -1,0 +1,9 @@
+.editorconfig
+.github/
+CHANGELOG.md
+CONTRIBUTING.md
+dprint.json
+dummy.ts
+images/
+scripts/
+tsconfig.json
